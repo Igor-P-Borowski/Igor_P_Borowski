@@ -1,5 +1,5 @@
-### Hello World ?
+### Hi  !!
 I am a begginer in Data Analysis from Poland-
-- ? Currently earning Python 
+- ? Currently Learning Python 
 <br>## Connect with me<br>
 <br>## Expertise<br>
